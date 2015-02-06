@@ -2,7 +2,7 @@
 
 Name:		numix-icon-theme
 Version:	2.3
-Release:	1
+Release:	2
 Summary:	%{theme} icon theme
 Group:		Graphical desktop/Other
 
